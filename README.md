@@ -62,4 +62,4 @@ Run `powerbi/views.sql` against your SQL Server, then follow `powerbi/README.md`
 ## Data Source
 [FastF1](https://docs.fastf1.dev/) — Python library for official F1 timing data.
 Supports all races from 2018 onwards.
-Standings history via the [Ergast API](http://ergast.com/mrd/).
+
